@@ -1,0 +1,16 @@
+git (github,gitlab,bitbucket)
+
+javascript / python /
+
+typescript
+
+mern
+mongodb
+express  framework
+react/angular
+node js
+
+webrtc
+web 3
+dockers, kubernates,clustering (devops)
+
